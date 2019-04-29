@@ -1,0 +1,5 @@
+﻿  mainwindow.cpp
+f:\tal\论文\mainapp\strip.h(19): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+f:\tal\论文\mainapp\mainwindow.cpp(196): warning C4715: “MainWindow::GenStripPolygon”: 不是所有的控件路径都返回值
+  MainApp.vcxproj -> F:\Tal\论文\MainApp\Win32\Debug\MainApp.exe
+  MainApp.vcxproj -> F:\Tal\论文\MainApp\Win32\Debug\MainApp.pdb (Full PDB)
